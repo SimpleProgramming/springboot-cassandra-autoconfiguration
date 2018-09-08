@@ -2,3 +2,7 @@
 
 
 This example explains how to connect a spring boot application to cassandra database using auto-configurations
+
+# Prerequisites
+
+    Cassandra installed in your machine
